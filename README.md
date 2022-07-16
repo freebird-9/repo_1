@@ -1,7 +1,7 @@
 # IRIS Dataset Classification Project
 **Introduction**
 
-The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. 3 classes are: 
+The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant.
 Attribute Information:
 
 1. sepal length in cm
