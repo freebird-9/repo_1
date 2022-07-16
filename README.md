@@ -13,7 +13,7 @@ Attribute Information:
 -- Iris Versicolour
 -- Iris Virginica
 
-Image Below showing different species:
+Image Below showing calss: fig(i) Setosa, Fig(ii) Versiclour, & fig(iii) Virginica 
 
 ![Image](https://user-images.githubusercontent.com/100993321/179348795-2c635e51-e98b-4cf2-a65b-42e97dd00a2e.jpeg)
 ![Image](https://user-images.githubusercontent.com/100993321/179348796-27c5c645-2ff4-485b-8b84-618344157f38.jpeg)
